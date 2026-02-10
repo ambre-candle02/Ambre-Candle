@@ -39,9 +39,9 @@ Welcome to the official GitHub profile of **Ambre Candle**. We are a forward-thi
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ambre-candle02&show_icons=true&theme=vue-dark&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=C9D1D9&border_color=D4AF37" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ambre-candle02&show_icons=true&theme=gold&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=C9D1D9&border_color=D4AF37" alt="Ambre Candle Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambre-candle02&layout=compact&theme=vue-dark&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=C9D1D9&border_color=D4AF37" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambre-candle02&layout=compact&theme=gold&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=C9D1D9&border_color=D4AF37" alt="Ambre Candle Languages" />
 </p>
 
 ---
