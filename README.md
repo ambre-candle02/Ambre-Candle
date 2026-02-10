@@ -37,11 +37,18 @@ Welcome to the official GitHub profile of **Ambre Candle**. We are a forward-thi
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ambre-candle02&show_icons=true&theme=radical" alt="Ambre Candle Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambre-candle02&layout=compact&theme=radical" alt="Ambre Candle Languages" />
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-gold.svg?style=for-the-badge&logo=github" alt="Maintained" />
+  <img src="https://img.shields.io/badge/Contributions-Calculated-black.svg?style=for-the-badge&logo=github" alt="Contributions" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ambre-candle02&show_icons=true&theme=dark&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=C9D1D9" alt="Ambre Candle Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ambre-candle02&theme=radical&bg_color=0D1117&color=D4AF37&line=D4AF37&point=C9D1D9&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
